@@ -15,7 +15,7 @@ date: 04/15/2018
 
 This PoC tries to explore Enigma [1][2], Intel SGX [3] and other privacy-preserving computing platforms in order to achieve computational integrity in Ocean Protocol. 
 
-The key problem is how to perform computationally intensive computing on data without revealing the private raw data. In particular, Ocean Protocol emphasizes on AI algorithm and private user data in data marketplace. 
+The key problem is how to perform computationally intensive computing on data without revealing the private raw data. 
 
 
 ## 2. Investigation 
