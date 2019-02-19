@@ -1,32 +1,51 @@
-# Nautilus - Exploring ocean protocol
-[There could be dragons](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
+[![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-## Documents
+# Research Work 
 
-- [Code of Conduct](https://github.com/diminator/nautilus/blob/master/CODE_OF_CONDUCT.md)
-- [Research](https://github.com/diminator/nautilus/tree/master/research)
+```
+name: repository of research work what we are interested.
+type: research
+status: updated draft
+editor: Ocean Protocol Team
+date: 02/18/2019
+```
 
-## Project Goal
+## Introduction
 
-Research on useful primitives to build a decentralized data economy for the common goods.
+Research work includes **investigation**, **proof-of-concept (PoC)** and **Implementation** of various topics that are interesting to Ocean, which will be transferred to production in a later stage.
 
-Ocean strives to be a protocol for permissionless, self-sustaining networks that performs a useful data utility.
+This repository maintains on-going research work and will be updated frequently over the time. 
 
-### Permissionless Network
+***Disclaimer*** this repository is missing a code audit and should still be considered to be PoC all the time. We can't rule out that there are bugs that might cause loss.
 
-> **High resistance against attacks**
+## List of Research Work
 
-The actors in a public network can be benign, byzantine or sybil entities. The network must be able to function provably correct under a certain threshold of polynomial attacking power.
+Folder Name   |  Description | Issue | Update Date |
+--- | ---| ---| --- |
+0-enigma-mpc |  investigation of Enigma/Ocean integration |  | 04/15/2018 |
+1-fitchain-analysis | 	analysis Ocean/Fitchain integration | [257](https://github.com/oceanprotocol/ocean/issues/257) | 01/26/2019 |
+readingList | the curated list of reading materials | |
 
 
-### Self-sustaining
+## Supporting Documents
 
-> **Functions in absence of it's creators**
+* [Code of conduct for contributors](CODE_OF_CONDUCT.md)
 
-The system incentivizes good behavior by rewarding it using proofs, claims, tokens. Such rewards can be claimed as a token by proving that work has been done. Work is a physical cost such as energy, infrastructure and operations. Proofs of the work need to be unforgeable and publicly verifiable.
+## License
 
-### utility
+```
+Copyright 2018 Ocean Protocol Foundation
 
-> **Data interrogation that is secure, consistent and immutable**
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 

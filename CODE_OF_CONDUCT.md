@@ -1,3 +1,13 @@
+[![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
+
+```
+name: guidance of contributor code of conduct.
+type: research
+status: inital draft
+editor: Ocean Protocol Team
+date: 02/18/2019
+```
+
 # Contributor Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of
@@ -38,9 +48,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior directed
 at yourself or another community member may be reported by contacting a
 project maintainer at
 
-- tim.daubenschuetz@gmail.com
-- dimi.dejonghe@gmail.com
-- please add yourself on voluntary basis if you'd like
+- dimi@oceanprotocol.com
+- fang@oceanprotocol.com
 
 All complaints will be reviewed and investigated and will result in a response
 that is appropriate to the circumstances. Maintainers are obligated to maintain

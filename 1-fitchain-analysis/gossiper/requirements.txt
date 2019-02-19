@@ -1,0 +1,7 @@
+aiohttp
+rpcudp
+cryptography
+pytest
+json-rpc
+web3
+eth_keys
