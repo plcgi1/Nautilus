@@ -24,6 +24,7 @@ Folder Name   |  Description | Issue | Update Date |
 --- | ---| ---| --- |
 0-enigma-mpc |  investigation of Enigma/Ocean integration |  | 04/15/2018 |
 1-fitchain-analysis | 	analysis Ocean/Fitchain integration | [257](https://github.com/oceanprotocol/ocean/issues/257) | 01/26/2019 |
+2-data-availability |  research of data availablity in Web2.0 & Web3.0 | [244](https://github.com/oceanprotocol/ocean/issues/244) | 01/31/2019
 readingList | the curated list of reading materials | |
 
 
