@@ -7,7 +7,6 @@ name: repository of research work what we are interested.
 type: research
 status: updated draft
 editor: Ocean Protocol Team
-date: 02/18/2019
 ```
 
 ## Introduction
@@ -26,6 +25,7 @@ Folder Name   |  Description | Issue | Update Date |
 1-fitchain-analysis | 	analysis Ocean/Fitchain integration | [257](https://github.com/oceanprotocol/ocean/issues/257) | 01/26/2019 |
 2-data-availability |  research of data availablity in Web2.0 & Web3.0 | [244](https://github.com/oceanprotocol/ocean/issues/244) | 01/31/2019
 readingList | the curated list of reading materials | |
+3-uniswap | research of adding Ocean to Uniswap | [286](https://github.com/oceanprotocol/ocean/issues/286) |
 
 
 ## Supporting Documents
