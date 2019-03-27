@@ -7,7 +7,7 @@ import 'openzeppelin-solidity/contracts/ownership/Ownable.sol';
 /**
  * @dev Example of the ERC20 Token.
  */
-contract MyToken is Ownable, ERC20Detailed, ERC20Capped {
+contract OceanToken is Ownable, ERC20Detailed, ERC20Capped {
 
 	using SafeMath for uint256;
 
@@ -16,7 +16,7 @@ contract MyToken is Ownable, ERC20Detailed, ERC20Capped {
 
 	constructor()
 		public
-		ERC20Detailed('MyToken', 'MTKN', 18)
+		ERC20Detailed('SampleToken', 'OCEAN', 18)
 		ERC20Capped(TOTALSUPPLY)
 		Ownable()
 	{
