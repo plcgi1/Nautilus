@@ -6,38 +6,38 @@
 $ truffle migrate --network rinkeby
 ```
 
-### 2. transact with deployed token contract
+### 2. create a new exchange for token contract
 
 ```
-$ node script/Uniswap.sol.Test.js
+$ node script/1.create.exchange.js
 ```
 
-### 3. create a new exchange for token contract
+### 3. query the newly deployed echange contract address
 
 ```
-$ node script/Uniswap.sendtx.js
+$ node script/2.get.exchange.address.js
 ```
 
-### 4. query the newly deployed echange contract address
+### 4. approve exchange to withdraw ERC20 tokens
 
 ```
-$ node script/Uniswap.js
+$ node script/3.approve.exchange.js
 ```
 
-### 5. approve exchange to withdraw ERC20 tokens
+### 5. add liquidity into the exchange contract
 
 ```
-$ node script/Uniswap.approve.js
+$ node script/4.add.liquidity.js
 ```
 
-### 6. add liquidity into the exchange contract
+### 6. swap ETH to ERC20 tokens with the exchange contract
 
 ```
-$ node script/Uniswap.addLiquidity.js
+$ node script/5.eth2erc20.swap.js
 ```
 
-### 7. swap tokens with the exchange contract
+### 7. convert ERC20 tokens to different type of ERC20 tokens
 
 ```
-$ node script/Uniswap.swap.js
+$ node script/6.convert.token2token.js
 ```
